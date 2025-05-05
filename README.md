@@ -1,2 +1,2 @@
-# MathPlayground
-一个数学galgame开发库
+# 恋与数学之心
+数学galgame《恋与数学之心》的开发库
